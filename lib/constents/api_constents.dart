@@ -1,5 +1,4 @@
 class ApiConstants {
-  // Replace with your actual API keys
   static const String weatherApiKey = '9a9a34c2557b856a42adbfdb43ed34e3';
   static const String newsApiKey = 'dafd4c94ef7e46df997b6844f4a4ea1e';
 
